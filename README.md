@@ -8,4 +8,13 @@
 
 <br/>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhk1212&show_icons=true&theme=radical)
+<div align="center">
+
+🎓 Recently graduated from a tech university in Germany with a degree in Computer Science
+
+🔎 Currently seeking exciting career opportunities in Software Development or AI Engineering
+
+⚡ "It won't happen overnight. But if you quit, it won't happen at all."
+
+</div>
+
