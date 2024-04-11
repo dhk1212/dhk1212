@@ -37,14 +37,6 @@
 
 <br/>
 
-<h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cplusplus,java,html,css,javascript,pycharm,git,jupyter,colab,unity,jira" />
-</div>
-
-<br/>
-
 <h3 align="center">Data Analysis & Machine Learning</h3>
 <p align="center">Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch)</p>
 
