@@ -50,4 +50,3 @@
 <p align="center">Object Oriented Programming, Agile Methodologies: Experience with Scrum, promotes collaboration and adaptability in interdisciplinary teams</p>
 
 
-
