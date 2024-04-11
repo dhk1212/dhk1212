@@ -4,6 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&center=true&vCenter=true&width=600&height=100&duration=6000&color=%238a2be2&lines=Hello+👻+there!;+I'm+Dahye+Kim!;" />
 </h1>
 
+<h3 align="center">A passionate software developer from South Korea </h3>
+
+<br/>
 
 
 <!--
