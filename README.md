@@ -27,5 +27,35 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
+
+<h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cplusplus,java,html,css,javascript,pycharm,git,jupyter,colab,unity,jira" />
+</div>
+
+<br/>
+
+<h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,cplusplus,java,html,css,javascript,pycharm,git,jupyter,colab,unity,jira" />
+</div>
+
+<br/>
+
+<h3 align="center">Data Analysis & Machine Learning</h3>
+<p align="center">Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch)</p>
+
+<h3 align="center">Web and App Development</h3>
+<p align="center">Vue, Angular, Kotlin</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">Git/GitHub, IntelliJ/PyCharm, Jupyter Notebook, Google Colab, Unity, Jira</p>
+
+<h3 align="center">Concepts</h3>
+<p align="center">Object Oriented Programming, Agile Methodologies: Experience with Scrum, promotes collaboration and adaptability in interdisciplinary teams</p>
+
+
 
