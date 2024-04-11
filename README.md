@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c%2B%2B,java,html,css,javascript,pycharm,git,jupyter,colab,https://www.svgrepo.com/show/282089/unity-logo.svg,jira" />
+    <img src="https://skillicons.dev/icons?i=python,c%2B%2B,java,html,css,javascript,pycharm,git,jupyter,colab,jira" />
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
 <p align="center">Vue, Angular, Kotlin</p>
 
 <h3 align="center">Tools</h3>
-<p align="center">Git/GitHub, IntelliJ/PyCharm, Jupyter Notebook, Google Colab, Unity, Jira</p>
+<p align="center">Git/GitHub, IntelliJ/PyCharm, Jupyter Notebook, Google Colab, Jira</p>
 
 <h3 align="center">Concepts</h3>
 <p align="center">Object Oriented Programming, Agile Methodologies: Experience with Scrum, promotes collaboration and adaptability in interdisciplinary teams</p>
