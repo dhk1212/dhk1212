@@ -1,8 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dhk1212.dhk1212" />
 
-<h1 align="center">
-    <img src="https://via.placeholder.com/600x100/8a2be2/FFFFFF?text=Hello+👻+there!+I'm+Dahye+Kim!" />
+<h1 align="center" style="position: relative;">
+    <img src="https://via.placeholder.com/600x100/8a2be2/FFFFFF?text=Hello+👻+there!+I'm+Dahye+Kim!" style="animation: slide 3s linear infinite;">
 </h1>
+
+<style>
+@keyframes slide {
+  0% { transform: translateX(0); }
+  50% { transform: translateX(20px); }
+  100% { transform: translateX(0); }
+}
+</style>
+
 
 
 <h3 align="center">A passionate software developer from South Korea </h3>
