@@ -58,10 +58,11 @@
 <hr/>
 
 <div align="center">
-  <h2>📈 My Contributions 📈</h2>
+  <h2>📅 My Contributions 📅</h2>
   <br>
-  <img alt="GitHub Contribution Graph" src="https://github-readme-streak-stats.herokuapp.com/?user=salesp07&theme=dark&background=0d1117&hide_border=true" />
+  <img alt="GitHub Contribution Calendar" src="https://ghchart.rshah.org/salesp07" />
   <br/><br/><br/>
 </div>
+
 
 
