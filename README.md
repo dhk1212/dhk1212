@@ -1,14 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dhk1212.dhk1212" />
 
-<h1 align="center" style="position: relative;">
-    <img src="https://via.placeholder.com/600x100/8a2be2/FFFFFF?text=Hello+👻+there!+I'm+Dahye+Kim!" style="animation: slide 3s linear infinite;">
+<h1 align="center" style="position: relative; font-family: 'Pacifico', cursive; color: #8a2be2; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); animation: bounce 2s ease infinite;">
+    Hello 👻 there!<br/>I'm Dahye Kim!
 </h1>
 
 <style>
-@keyframes slide {
-  0% { transform: translateX(0); }
-  50% { transform: translateX(20px); }
-  100% { transform: translateX(0); }
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-20px); }
 }
 </style>
 
