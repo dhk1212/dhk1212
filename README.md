@@ -37,6 +37,11 @@
 
 <br/>
 
+<h3 align="center">Programming Languages</h3>
+<p align="center">Python, C/C++/C#, Java, HTML/CSS/JavaScript</p>
+
+
+
 <h3 align="center">Data Analysis & Machine Learning</h3>
 <p align="center">Python (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch)</p>
 
