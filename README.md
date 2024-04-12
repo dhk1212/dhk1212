@@ -1,16 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dhk1212.dhk1212" />
 
-<h1 align="center" style="position: relative; font-family: 'Pacifico', cursive; color: #8a2be2; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); animation: bounce 2s ease infinite;">
-    Hello 👻 there!<br/>I'm Dahye Kim!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👻;+I'm+Dahye+Kim!;" />
 </h1>
-
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-20px); }
-}
-</style>
-
 
 
 <h3 align="center">A passionate software developer from South Korea </h3>
