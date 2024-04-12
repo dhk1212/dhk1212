@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,cplusplus,java,html,css,javascript,pycharm,git" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,pycharm,git" />
 </div>
 
 <br/>
