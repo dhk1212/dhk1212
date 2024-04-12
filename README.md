@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dhk1212.dhk1212" />
 
 <h1 align="center">
-    <img src="https://api.lolikitty.me/readme-typing-svg?lines=Hello+👻+there!;+I'm+Dahye+Kim!&font=Pacifico&size=45&width=600&height=100&duration=6000&color=%238a2be2" />
+    <img src="https://via.placeholder.com/600x100/8a2be2/FFFFFF?text=Hello+👻+there!+I'm+Dahye+Kim!" />
 </h1>
 
 
