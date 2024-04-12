@@ -60,7 +60,7 @@
 <div align="center">
   <h2>📅 My Contributions 📅</h2>
   <br>
-  <img alt="GitHub Contribution Calendar" src="https://github.com/dhk1212" />
+  <img alt="GitHub Contribution Calendar" src="https://ghchart.rshah.org/dhk1212" />
   <br/><br/><br/>
 </div>
 
